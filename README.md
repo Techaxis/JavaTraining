@@ -1,1 +1,1 @@
-# JavaTraning
+# JavaTraining
